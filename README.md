@@ -1,6 +1,3 @@
-\#Auteur: Masaaf Khaoula (Kham)
-
-
 \# Mini-projet MLOps - ML
 
 
@@ -90,8 +87,7 @@ mlops-ml-project/
 \## 4. Installation
 
 
-
-1\. Cloner le projet :
+Cloner le projet :
 
 
 
@@ -104,5 +100,10 @@ cd mlops-ml-project
 
 
 
+---
 
 
+
+
+
+\#Auteur: Masaaf Khaoula (Kham)
