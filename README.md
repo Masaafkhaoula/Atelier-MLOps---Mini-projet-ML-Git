@@ -96,14 +96,3 @@ Cloner le projet :
 git clone https://github.com/Masaafkhaoula/Atelier-MLOps---Mini-projet-ML-Git.git
 
 cd mlops-ml-project
-
-
-
-
----
-
-
-
-
-
-\## Auteur: Masaaf Khaoula (Kham)
