@@ -1,3 +1,4 @@
+\#Auteur: Masaaf Khaoula (Kham)
 \# Mini-projet MLOps - ML
 
 
@@ -101,6 +102,5 @@ cd mlops-ml-project
 
 
 
-\#Auteur: Masaaf Khaoula (Kham)
 
 
